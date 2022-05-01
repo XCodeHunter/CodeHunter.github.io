@@ -1,3 +1,38 @@
 .bgColor {
     background-color: #01376d;
+    color: white;
 }
+
+.tamanhoBannerCarrosel{
+    height: 70vh;
+}
+
+.tamanhoTextoCarrosel{
+    height: 50vh;
+}
+
+.bgText {
+    background-color: #fff;
+    color: black;
+}
+
+.divChamada img{
+    opacity: 0.90;
+}
+
+.divChamada p{
+    color: black;
+}
+.divChamada h2{
+    color: black;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
